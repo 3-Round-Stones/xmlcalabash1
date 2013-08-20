@@ -1,3 +1,7 @@
 .classpath
 .project
 build/
+calabash.jar
+out/
+test/errors.*
+test/report.*
