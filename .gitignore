@@ -3,5 +3,6 @@
 build/
 calabash.jar
 out/
+dist/
 test/errors.*
 test/report.*
